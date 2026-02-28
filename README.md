@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=250&section=header&text=👋%20Hi%20There!%20I'm%20[Rifki Malaika]&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=250&section=header&text=👋%20Hi%20There!%20I'm%20Rifki%20Malaika&fontSize=50&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Software Engineer | Web & Mobile Developer</h2>
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[rifkimalaika-hub]/[rifkimalaika-hub]/output/github-contribution-grid-snake.svg" alt="Animasi Snake Github" />
+  <img src="https://raw.githubusercontent.com/rifkimalaika-hub/rifkimalaika-hub/output/github-contribution-grid-snake.svg" alt="Animasi Snake Github" />
 </p>
 
 <p align="center">
