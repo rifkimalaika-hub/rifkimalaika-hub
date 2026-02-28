@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[USERNAME_LU]/[USERNAME_LU]/output/github-contribution-grid-snake.svg" alt="Animasi Snake Github" />
+  <img src="https://raw.githubusercontent.com/[rifkimalaika-hub]/[rifkimalaika-hub]/output/github-contribution-grid-snake.svg" alt="Animasi Snake Github" />
 </p>
 
 <p align="center">
