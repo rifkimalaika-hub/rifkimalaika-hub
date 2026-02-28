@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=250&section=header&text=👋%20Hi%20There!%20I'm%20Rifki Malaika&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=250&section=header&text=👋%20Hi%20There!%20I'm%20 [Rifki Malaika]&fontSize=50&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Software Engineer | Web & Mobile Developer</h2>
